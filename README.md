@@ -1,0 +1,1 @@
+Demo of use QProcess. It's run the 7zip for packing, unpacking, listing files in archive.
